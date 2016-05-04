@@ -1,5 +1,8 @@
-source ‘http://rubygems.org’
+# A sample Gemfile
+source "https://rubygems.org"
 
-gem ‘selenium-webdriver’
-gem ‘cucumber’
-gem ‘rspec’
+# gem "rails"
+source ‘http://rubygems.org’
+gem "selenium-webdriver"
+gem "cucumber"
+gem "rspec"
