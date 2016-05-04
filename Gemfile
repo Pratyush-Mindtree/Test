@@ -3,5 +3,5 @@ source "https://rubygems.org"
 
 # gem "rails"
 gem "selenium-webdriver"
-gem "cucumber"
+gem "cucumber" "<2.0"
 gem "rspec"
